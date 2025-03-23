@@ -1,0 +1,9 @@
+file_format: "1"
+id: macropadh
+name: MACROPADH
+type: shield
+url: https://github.com/gtips/reviung/tree/master/macropadh
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
