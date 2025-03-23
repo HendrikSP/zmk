@@ -1,0 +1,6 @@
+if SHIELD_MOUSEMATE
+
+config ZMK_KEYBOARD_NAME
+    default "mousemate"
+
+endif
