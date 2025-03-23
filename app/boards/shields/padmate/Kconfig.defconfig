@@ -1,0 +1,6 @@
+if SHIELD_PADMATE
+
+config ZMK_KEYBOARD_NAME
+    default "padmate"
+
+endif
