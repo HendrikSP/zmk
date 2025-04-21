@@ -1,0 +1,6 @@
+if SHIELD_CLATA
+
+config ZMK_KEYBOARD_NAME
+    default "Clata"
+
+endif
