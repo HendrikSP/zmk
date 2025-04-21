@@ -1,0 +1,6 @@
+if SHIELD_VIKEE
+
+config ZMK_KEYBOARD_NAME
+    default "Vikee"
+
+endif
